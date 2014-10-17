@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"caniuse_local",
 		"DashDoc",
@@ -14,6 +15,7 @@
 		"Stylus",
 		"Syntax Highlighting for Sass",
 		"Theme - Afterglow",
+		"Theme - Flatland",
 		"Theme - Spacegray"
 	]
 }
