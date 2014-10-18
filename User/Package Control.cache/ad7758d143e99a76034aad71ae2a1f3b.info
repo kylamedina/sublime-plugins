@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "last-modified": "Sat, 18 Oct 2014 19:40:08 GMT", 
     "etag": null
+=======
+    "etag": null, 
+    "last-modified": "Fri, 17 Oct 2014 18:50:08 GMT"
+>>>>>>> d82be9b6816f6f74ffe63d52d28beacab5e52b06
 }
