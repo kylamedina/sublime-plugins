@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"caniuse_local",
 		"DashDoc",
